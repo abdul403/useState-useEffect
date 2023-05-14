@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+  overflow: hidden;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+
+}
+
